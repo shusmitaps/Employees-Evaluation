@@ -4,6 +4,6 @@ Dalam upaya meningkatkan efektivitas pengambilan keputusan terkait promosi karya
 Pada tahun ini, HR team menggunakan data yang tersimpan untuk mengidentifikasi apakah seorang karyawan memenuhi syarat untuk mendapatkan promosi. Dengan memanfaatkan data historis dan faktor-faktor yang terkait, tim HR dapat memperoleh perkiraan apakah seorang karyawan berpotensi mendapatkan promosi atau tidak. Hal ini akan membantu tim HR dalam mengambil keputusan promosi secara lebih efisien dan akurat.
 
 # Objective
-- Mengeksplorasi dan memvisualisasikan dataset yang berisi informasi karyawan dan status promosi mereka.
+- Mengeksplorasi dan memvisualisasikan dataset yang berisi informasi karyawan,
 - Menganalisis faktor-faktor yang berpengaruh terhadap rekomendasi promosi karyawan.
 - Memberikan insight dan rekomendasi yang dapat membantu perusahaan dalam mengambil keputusan promosi yang lebih baik.

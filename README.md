@@ -7,3 +7,6 @@ Pada tahun ini, HR team menggunakan data yang tersimpan untuk mengidentifikasi a
 - Mengeksplorasi dan memvisualisasikan dataset yang berisi informasi karyawan.
 - Menganalisis faktor-faktor yang berpengaruh terhadap rekomendasi promosi karyawan.
 - Memberikan insight dan rekomendasi yang dapat membantu perusahaan dalam mengambil keputusan promosi yang lebih baik.
+
+Report lengkapnya :
+https://medium.com/@shusmitaps/analisis-faktor-faktor-yang-mempengaruhi-rekomendasi-promosi-karyawan-7b735d7f2c8b
